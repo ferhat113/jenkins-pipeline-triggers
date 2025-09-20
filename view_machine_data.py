@@ -6,6 +6,7 @@ def main():
     print(f"Name of the server: {hostname}")
     print(f'The current directory is: {os.getcwd()}')
     print('hello world')  # Added print statement
+    print('#######################')  # Added print statement
 
 if __name__ == "__main__":
     main()
